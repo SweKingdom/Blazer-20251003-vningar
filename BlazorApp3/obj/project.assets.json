@@ -1845,23 +1845,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\phili\\.nuget\\packages\\": {},
+    "C:\\Users\\filip\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\phili\\source\\repos\\BlazorApp3\\BlazorApp3\\BlazorApp3.csproj",
+      "projectUniqueName": "C:\\Users\\filip\\Source\\Repos\\Blazer-20251003-vningar\\BlazorApp3\\BlazorApp3.csproj",
       "projectName": "BlazorApp3",
-      "projectPath": "C:\\Users\\phili\\source\\repos\\BlazorApp3\\BlazorApp3\\BlazorApp3.csproj",
-      "packagesPath": "C:\\Users\\phili\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\phili\\source\\repos\\BlazorApp3\\BlazorApp3\\obj\\",
+      "projectPath": "C:\\Users\\filip\\Source\\Repos\\Blazer-20251003-vningar\\BlazorApp3\\BlazorApp3.csproj",
+      "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\filip\\Source\\Repos\\Blazer-20251003-vningar\\BlazorApp3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\phili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1870,7 +1870,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
