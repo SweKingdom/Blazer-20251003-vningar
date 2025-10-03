@@ -1024,9 +1024,6 @@ C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\b9dv031525-tptq2av103.gz
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\a1t7umilcu-lfu7j35m59.gz
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\2vc2edxv89-oyz0vx2fzb.gz
-C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\eno7885wle-4nqu3j48og.gz
-C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\4rx6m6dtd7-8sodwqyy63.gz
-C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\ghe9mklbsy-8uwmbwxz8f.gz
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\staticwebassets.development.json
@@ -1037,3 +1034,6 @@ C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\BlazorApp3.pdb
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\ref\BlazorApp3.dll
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\eno7885wle-bhqn3ewb0e.gz
+C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\4rx6m6dtd7-mbrf66fqqi.gz
+C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\compressed\ghe9mklbsy-kd0iwa98b6.gz
