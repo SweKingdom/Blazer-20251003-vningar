@@ -101,3 +101,19 @@ a, .btn-link {
 code {
     color: #c02d76;
 }
+
+
+.footer {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 10px;
+    font-style: italic;
+    position: fixed; /* Gör så att den alltid sitter längst ner */
+    bottom: 0;
+    width: 100%;
+}
+
+.custom-nav {
+    background-color: #2c3e50; /* välj din egen färg */
+    color: white;
+}
