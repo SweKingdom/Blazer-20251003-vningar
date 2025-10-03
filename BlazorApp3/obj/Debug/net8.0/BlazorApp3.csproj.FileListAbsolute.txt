@@ -1023,9 +1023,6 @@ C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\k7
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\b9dv031525-tptq2av103.gz
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\a1t7umilcu-lfu7j35m59.gz
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\2vc2edxv89-oyz0vx2fzb.gz
-C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\eno7885wle-i63ox118ig.gz
-C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\4rx6m6dtd7-98y30df62p.gz
-C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\ghe9mklbsy-iie8t4poap.gz
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\staticwebassets.development.json
@@ -1036,6 +1033,7 @@ C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\BlazorApp3.dl
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\refint\BlazorApp3.dll
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\BlazorApp3.pdb
 C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\ref\BlazorApp3.dll
+<<<<<<< HEAD
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\bin\Debug\net8.0\wwwroot\_framework\blazor.webassembly.js
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.wasm
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\bin\Debug\net8.0\wwwroot\_framework\Microsoft.AspNetCore.Components.wasm
@@ -2075,3 +2073,9 @@ C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\refint\BlazorApp3.dll
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\BlazorApp3.pdb
 C:\Users\filip\Source\Repos\Blazer-20251003-vningar\BlazorApp3\obj\Debug\net8.0\ref\BlazorApp3.dll
+=======
+C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\BlazorApp3.sourcelink.json
+C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\eno7885wle-3cq1umcd1z.gz
+C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\4rx6m6dtd7-69frxu3fda.gz
+C:\Users\phili\source\repos\BlazorApp3\BlazorApp3\obj\Debug\net8.0\compressed\ghe9mklbsy-3p0tqmnjp9.gz
+>>>>>>> 7823c45eac8953595a8dc04f7f31747cda8925b6

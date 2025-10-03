@@ -3,7 +3,7 @@
 
 <PageTitle>Weather</PageTitle>
 
-<h1>Weather</h1>
+<h1>Min Väder Program</h1>
 
 <p>This component demonstrates fetching data from the server.</p>
 
@@ -20,6 +20,7 @@ else
                 <th>Temp. (C)</th>
                 <th>Temp. (F)</th>
                 <th>Summary</th>
+                <th>Kommentar</th>
             </tr>
         </thead>
         <tbody>
@@ -30,6 +31,7 @@ else
                     <td>@forecast.TemperatureC</td>
                     <td>@forecast.TemperatureF</td>
                     <td>@forecast.Summary</td>
+                    <td>@forecast.Kommentar</td>
                 </tr>
             }
         </tbody>
@@ -51,6 +53,8 @@ else
         public int TemperatureC { get; set; }
 
         public string? Summary { get; set; }
+
+        public string Kommentar => TemperatureC > 20 ? "Nice" : "";
 
         public int TemperatureF => 32 + (int)(TemperatureC / 0.5556);
     }
